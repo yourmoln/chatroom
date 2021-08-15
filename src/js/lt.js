@@ -51,5 +51,5 @@ xmlhttpw.send();
 
 var timeout = setInterval(function () {
   	 	lt();
-	},2000);
+	},2000);//Refresh interval,Unit:ms
 	
